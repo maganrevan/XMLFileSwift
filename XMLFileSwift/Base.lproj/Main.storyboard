@@ -231,7 +231,7 @@
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="j3j-Pf-E0y">
                                 <rect key="frame" x="188" y="164" width="274" height="54"/>
                                 <autoresizingMask key="autoresizingMask"/>
-                                <textFieldCell key="cell" title="Label" id="EBH-0p-8aK">
+                                <textFieldCell key="cell" placeholderString="Ausgabe von Meldungen des Programms." id="EBH-0p-8aK">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
